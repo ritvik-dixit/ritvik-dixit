@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ritvik-dixit
-- 👀 I’m interested in Data science and Machine learninb
+- 👀 I’m interested in Data science and Machine learning
 - 🌱 I’m currently learning Data science and machine learning
 
 - 📫 How to reach me
